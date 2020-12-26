@@ -1,0 +1,1 @@
+Python application with Web based user interface where users can manage their CryptoCurrency transactions between in-built wallets in blockchain. Developed based on cutting edge BlockChain Technology with Public and Private Crypto-Security keys, hash-encryption method Node networks and Consensus Algorithm to eliminate blockchain conflicts.
